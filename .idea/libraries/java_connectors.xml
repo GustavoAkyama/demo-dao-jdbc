@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="java-connectors">
+    <CLASSES>
+      <root url="file://C:/java-libs/java-connectors" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://C:/java-libs/java-connectors" recursive="false" />
+  </library>
+</component>
