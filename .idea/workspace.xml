@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20281bba-6337-4e21-a14a-881434ba47de" name="Changes" comment="findByDepartment implementation">
+    <list default="true" id="20281bba-6337-4e21-a14a-881434ba47de" name="Changes" comment="findAll implementation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
     </list>
@@ -105,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678407907130</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="findAll implementation">
+      <created>1678408142994</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678408142994</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -117,6 +125,7 @@
     <MESSAGE value="findById implementation" />
     <MESSAGE value="Reusing instantiation" />
     <MESSAGE value="findByDepartment implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="findByDepartment implementation" />
+    <MESSAGE value="findAll implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="findAll implementation" />
   </component>
 </project>
