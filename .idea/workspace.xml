@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20281bba-6337-4e21-a14a-881434ba47de" name="Changes" comment="SellerDaoJDBC and DaoFactory">
+    <list default="true" id="20281bba-6337-4e21-a14a-881434ba47de" name="Changes" comment="Reusing instantiation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/dao/DaoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/DaoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/dao/SellerDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/SellerDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +86,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678402943940</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="findById implementation">
+      <created>1678406624754</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678406624754</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Reusing instantiation">
+      <created>1678407051870</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678407051870</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -95,6 +109,8 @@
     <MESSAGE value="Seller entity class" />
     <MESSAGE value="DepartmentDao and SellerDao interfaces" />
     <MESSAGE value="SellerDaoJDBC and DaoFactory" />
-    <option name="LAST_COMMIT_MESSAGE" value="SellerDaoJDBC and DaoFactory" />
+    <MESSAGE value="findById implementation" />
+    <MESSAGE value="Reusing instantiation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reusing instantiation" />
   </component>
 </project>
