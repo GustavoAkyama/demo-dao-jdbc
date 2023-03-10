@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20281bba-6337-4e21-a14a-881434ba47de" name="Changes" comment="Reusing instantiation">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="20281bba-6337-4e21-a14a-881434ba47de" name="Changes" comment="findByDepartment implementation">
       <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/dao/SellerDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/SellerDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678407051870</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="findByDepartment implementation">
+      <created>1678407907130</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678407907130</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -111,6 +116,7 @@
     <MESSAGE value="SellerDaoJDBC and DaoFactory" />
     <MESSAGE value="findById implementation" />
     <MESSAGE value="Reusing instantiation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reusing instantiation" />
+    <MESSAGE value="findByDepartment implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="findByDepartment implementation" />
   </component>
 </project>
